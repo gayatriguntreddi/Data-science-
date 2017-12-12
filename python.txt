@@ -1,0 +1,6 @@
+python is a widely used high level programming language and easily readable language
+it is created by 'GUIDO VAN ROSSUM'in 1991
+it is an interpreted language
+python has no specification like keyword in C++ 'or' JAVA
+number of coding line or less in pyton compara to other languages
+python enble automatic memory management
